@@ -64,4 +64,4 @@ via_socket:
 
 If no configuration is given, module will fail to run.
 
----
+

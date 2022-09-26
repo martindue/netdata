@@ -111,7 +111,7 @@ socket:
   pass     : 'guest'
 ```
 
----
+
 
 ### Per-Queue Chart configuration
 

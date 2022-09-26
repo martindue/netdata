@@ -33,6 +33,6 @@ port: 7634
 
 If no configuration is given, module will attempt to connect to hddtemp daemon on `127.0.0.1:7634` address
 
----
+
 
 

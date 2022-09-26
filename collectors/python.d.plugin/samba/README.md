@@ -116,6 +116,6 @@ cd /etc/netdata   # Replace this path with your Netdata config directory, if dif
 sudo ./edit-config python.d/samba.conf
 ```
 
----
+
 
 

@@ -36,6 +36,6 @@ It produces only one chart:
 
 Configuration is not needed.
 
----
+
 
 

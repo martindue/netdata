@@ -205,6 +205,6 @@ local:
 
 If no configuration is given, module will attempt to connect to mongodb daemon on `127.0.0.1:27017` address
 
----
+
 
 

@@ -48,6 +48,6 @@ localhost:
 Without configuration, module attempts to connect to `http://localhost:8080/manager/status?XML=true`, without any credentials.
 So it will probably fail.
 
----
+
 
 

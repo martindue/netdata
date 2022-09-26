@@ -53,6 +53,6 @@ local:
 
 Without any configuration module will try to autodetect where squid presents its `counters` data
 
----
+
 
 

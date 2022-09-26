@@ -43,6 +43,6 @@ local:
   keyring_file: '/etc/ceph/ceph.client.admin.keyring'
 ```
 
----
+
 
 

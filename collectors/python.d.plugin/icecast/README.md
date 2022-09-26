@@ -39,6 +39,6 @@ remote:
 
 Without configuration, module attempts to connect to `http://localhost:8443/status-json.xsl`
 
----
+
 
 

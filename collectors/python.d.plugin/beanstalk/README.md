@@ -128,6 +128,6 @@ port         : 11300
 
 If no configuration is given, module will attempt to connect to beanstalkd on `127.0.0.1:11300` address
 
----
+
 
 

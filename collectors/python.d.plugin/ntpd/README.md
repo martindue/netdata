@@ -85,6 +85,6 @@ otherhost:
 
 If no configuration is given, module will attempt to connect to `ntpd` on `::1:123` or `127.0.0.1:123` and show charts for the systemvars. Use `show_peers: yes` to also show the charts for configured peers. Local peers in the range `127.0.0.0/8` are hidden by default, use `peer_filter: ''` to show all peers.
 
----
+
 
 

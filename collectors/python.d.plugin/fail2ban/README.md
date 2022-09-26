@@ -77,6 +77,6 @@ local:
 If no configuration is given, module will attempt to read log file at `/var/log/fail2ban.log` and conf file
 at `/etc/fail2ban/jail.local`. If conf file is not found default jail is `ssh`.
 
----
+
 
 

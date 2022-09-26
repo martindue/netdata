@@ -69,6 +69,6 @@ local:
 
 Without configuration, module attempts to connect to `http://localhost:8080/health`.
 
----
+
 
 

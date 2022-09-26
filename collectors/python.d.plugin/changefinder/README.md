@@ -104,7 +104,7 @@ The default configuration should look something like this. Here you can see each
 information about each one and what it does.
 
 ```yaml
-# ----------------------------------------------------------------------
+# -
 # JOBS (data collection sources)
 
 # Pull data from local Netdata node.

@@ -62,6 +62,6 @@ When no configuration is given, module uses `https://fqdn.example.com:8140`.
 -   Secure PuppetDB config may require client certificate. Not applies
     to default PuppetDB configuration though.
 
----
+
 
 

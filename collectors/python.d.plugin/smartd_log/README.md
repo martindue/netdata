@@ -120,6 +120,6 @@ local:
 
 If no configuration is given, module will attempt to read log files in `/var/log/smartd/` directory.
 
----
+
 
 

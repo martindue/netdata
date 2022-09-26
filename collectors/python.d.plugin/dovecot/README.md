@@ -100,6 +100,6 @@ localsocket:
 
 If no configuration is given, module will attempt to connect to dovecot using unix socket localized in `/var/run/dovecot/stats`
 
----
+
 
 

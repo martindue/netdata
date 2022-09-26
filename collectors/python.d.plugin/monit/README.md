@@ -47,6 +47,6 @@ local:
 
 If no configuration is given, module will attempt to connect to monit as `http://localhost:2812`.
 
----
+
 
 

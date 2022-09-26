@@ -27,7 +27,7 @@ cd /etc/netdata   # Replace this path with your Netdata config directory, if dif
 sudo ./edit-config python.d/ipfs.conf
 ```
 
----
+
 
 Calls to the following endpoints are disabled due to `IPFS` bugs:
 
@@ -46,6 +46,6 @@ remote:
   url: 'http://203.0.113.10::5001'
 ```
 
----
+
 
 

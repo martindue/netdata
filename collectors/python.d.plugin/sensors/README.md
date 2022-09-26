@@ -26,6 +26,6 @@ There have been reports from users that on certain servers, ACPI ring buffer err
 We are tracking such cases in issue [#827](https://github.com/netdata/netdata/issues/827).
 Please join this discussion for help.
 
----
+
 
 

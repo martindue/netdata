@@ -94,6 +94,6 @@ localtcpip:
 
 If no configuration is given, module will attempt to connect to memcached instance on `127.0.0.1:11211` address.
 
----
+
 
 
